@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "くびったけ",
+  "base_artist": "yama",
+  "createdAt": "2026-04-03T07:25:23.045517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くびったけ",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_くびったけ_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "くびったけ - kubittake",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/02_くびったけ_-_kubittake_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くびったけ",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_くびったけ_yama.txt"
+    }
+  ]
+}
